@@ -1,10 +1,11 @@
-@startuml Geometry
+@startuml Point
 class Point {
     Number x
     Number y
 
     constructor(x, y)
     fromArray([x, y])
+    with(x, y)
 
     isEqual(aPoint)
 
