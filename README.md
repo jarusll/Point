@@ -1,5 +1,6 @@
 # Point
-- I represent a point.
+I represent a geometric point.
+
 - You can use me by 
     - `new Point(x, y)`
     - `Point.fromArray([x, y])`

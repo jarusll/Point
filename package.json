@@ -7,7 +7,10 @@
     "test": "mocha"
   },
   "repository": "github:jarusll/Point",
-  "keywords": ["geometry", "point"],
+  "keywords": [
+    "geometry",
+    "point"
+  ],
   "author": "Suraj Yadav <ysuraj877@gmail.com> (https://jarusll.github.io)",
   "license": "MIT",
   "bugs": {
