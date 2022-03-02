@@ -8,6 +8,7 @@ class Point {
     with(x, y)
 
     isEqual(aPoint)
+    isZero()
 
     add(aNumber)
     addPoint(aPoint)
