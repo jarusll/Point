@@ -6,13 +6,10 @@
   "scripts": {
     "test": "mocha"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jarusll/Point.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": "github:jarusll/Point",
+  "keywords": ["geometry", "point"],
+  "author": "Suraj Yadav <ysuraj877@gmail.com> (https://jarusll.github.io)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jarusll/Point/issues"
   },
