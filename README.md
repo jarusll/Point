@@ -7,3 +7,7 @@ I represent a geometric point.
     - `Point.with(x, y)`
 
 ![Class Diagram](./uml/Point.svg)
+
+# TODO
+- [ ] Add more point messages
+# DONE
