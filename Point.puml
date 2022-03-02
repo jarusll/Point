@@ -1,0 +1,24 @@
+@startuml Geometry
+class Point {
+    Number x
+    Number y
+
+    constructor(x, y)
+    fromArray([x, y])
+
+    isEqual(aPoint)
+
+    add(aNumber)
+    addPoint(aPoint)
+    sub(aNumber)
+    subPoint(aPoint)
+    translate(aNumber, aNumber)
+    translateX(aNumber)
+    translateY(aNumber)
+    multiply(aNumber)
+    multiplyPoint(aPoint)
+    distance(aPoint)
+    transposed()
+    negated()
+}
+@enduml
